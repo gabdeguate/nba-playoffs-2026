@@ -1,0 +1,15 @@
+# Ignore data dumps (keep raw assets local)
+data/
+*.csv
+*.json
+
+# Ignore Jupyter Notebook checkpoints and state caches
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# Python environment and execution cache clutter
+__pycache__/
+*.pyc
+.env
+venv/
+.DS_Store

@@ -1,0 +1,7 @@
+nba_api
+pandas
+numpy
+scipy
+matplotlib
+seaborn
+jupyter
